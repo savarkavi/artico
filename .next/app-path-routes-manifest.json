@@ -1,0 +1,13 @@
+{
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/articles/page": "/articles",
+  "/login/page": "/login",
+  "/publish/page": "/publish",
+  "/post/[slug]/page": "/post/[slug]",
+  "/api/categories/route": "/api/categories",
+  "/api/posts/route": "/api/posts",
+  "/api/comments/route": "/api/comments",
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/api/posts/[slug]/route": "/api/posts/[slug]"
+}
